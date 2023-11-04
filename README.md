@@ -1,15 +1,9 @@
 Voting using Blockchain 
 
-Work- Flow
-1. Register the Candidate with his details
-2. Register the Voters
-3. Voters need to put their voterId to Vote for a candidate
-4. Only the Owner of the Contract can check the Results for the election
+TEAM NM ID - NM2023TMID11353
 
+M.VALLARASU   -    07A813BFA454C96A0824F57875DF072F
+R.HARIPRASATH  - 766603AED500F36B7ED498F601B5B308
+S.SANJAY      -          E517DE38FC8FE088A8F408D369739E76
 
-Steps to use the app
-Deploy the Contract of Voting
-Put the Address of deployed contract in Voting.Js file.
-Run the following two commands in VS Code terminal
-npm install
-npm start
+DEMO LINK : https://drive.google.com/file/d/1LuUungD1d2pDYemfFe3h9SoRza10M0LZ/view?usp=drive_link

@@ -1,9 +1,9 @@
-Voting using Blockchain 
+ Electronic Voting System using Blockchain 
 
 TEAM NM ID - NM2023TMID11353
 
-M.VALLARASU   -    07A813BFA454C96A0824F57875DF072F
+M.VALLARASU   -  07A813BFA454C96A0824F57875DF072F
 R.HARIPRASATH  - 766603AED500F36B7ED498F601B5B308
-S.SANJAY      -          E517DE38FC8FE088A8F408D369739E76
+S.SANJAY      -  E517DE38FC8FE088A8F408D369739E76
 
-DEMO LINK : https://drive.google.com/file/d/1LuUungD1d2pDYemfFe3h9SoRza10M0LZ/view?usp=drive_link
+DEMO LINK : https://drive.google.com/file/d/1xMcxUKYr2ileYuLvOtdJuLgX-gC8wfBu/view?usp=sharing
